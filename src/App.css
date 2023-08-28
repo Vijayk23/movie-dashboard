@@ -3,10 +3,16 @@
 }
 
 #movie-container{
-    width: 350px;
+    width: 400px;
     justify-content: center;
     color: black;
+    height: min-content;
 
+}
+.not-found{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #poster{
